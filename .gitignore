@@ -25,3 +25,5 @@ frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
 
+# Go workspace file
+backend/go.work
