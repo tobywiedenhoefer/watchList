@@ -1,0 +1,29 @@
+.WatchList {
+    border-collapse: collapse;
+    width: 70%;
+    margin: 1rem auto;
+}
+
+.WatchList tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.WatchList tr:hover {background-color: #ddd;}
+
+.WatchList td {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.WatchList th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+.WatchList .title {
+    padding-left: 6px;
+}
+
